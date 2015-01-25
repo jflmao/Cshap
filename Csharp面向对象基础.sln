@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_构造方法的重载_练习一", "06_构造方法的重载\06_构造方法的重载_练习一.csproj", "{70616E1E-9F8C-4170-B9B1-4C265B1CD6CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_构造方法的重载_练习二", "06_构造方法的重载_练习二\06_构造方法的重载_练习二.csproj", "{DD64BD23-62A8-4342-B656-0E4E07678F63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70616E1E-9F8C-4170-B9B1-4C265B1CD6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70616E1E-9F8C-4170-B9B1-4C265B1CD6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70616E1E-9F8C-4170-B9B1-4C265B1CD6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70616E1E-9F8C-4170-B9B1-4C265B1CD6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD64BD23-62A8-4342-B656-0E4E07678F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD64BD23-62A8-4342-B656-0E4E07678F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD64BD23-62A8-4342-B656-0E4E07678F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD64BD23-62A8-4342-B656-0E4E07678F63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
